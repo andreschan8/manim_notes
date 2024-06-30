@@ -1,1 +1,1 @@
-# fav_repo
+# Manim Notes
